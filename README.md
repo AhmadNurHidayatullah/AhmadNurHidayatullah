@@ -15,28 +15,33 @@ Saya suka membuat tampilan web yang menarik, responsif, dan fungsional, serta me
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-```bash
-💻 Languages:     HTML, CSS, JavaScript, PHP
-🧰 Frameworks:    Laravel (dasar), Bootstrap
-🛠️ Tools:         Git, GitHub, VS Code, Postman
-🎨 UI Design:     Figma, Canva
-🗄️ Database:      MySQL
+- **💻 Languages:** HTML, CSS, JavaScript, PHP  
+- **🧰 Frameworks:** Laravel (dasar), Bootstrap  
+- **🛠️ Tools:** Git, GitHub, VS Code, Postman  
+- **🎨 UI Design:** Figma, Canva  
+- **🗄️ Database:** MySQL  
 
+---
 
-🌱 **Sedang belajar:**  
-`Frontend Development` | `UI/UX Design` | `Laravel` | `Responsive Web`
+### 🌱 Sedang Belajar
 
+`Frontend Development` | `UI/UX Design` | `Laravel` | `Responsive Web Design`
 
-🧠 **Minat utama:**  
-- Frontend Development (HTML, CSS, JavaScript)
-- Web Design & Prototyping (Figma, Canva)
-- Laravel & PHP dasar
-- Membuat website yang clean, responsive, dan interaktif
+---
 
+### 🧠 Minat Utama
 
-📫 **Hubungi saya:**  
+- Frontend Development (HTML, CSS, JavaScript)  
+- Web Design & Prototyping (Figma, Canva)  
+- Laravel & PHP dasar  
+- Membuat website yang **clean, responsive**, dan **interaktif**
+
+---
+
+### 📫 Hubungi Saya
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadnurhidayatulla@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-nurhidayatullah-853502341)  
 [![Instagram](https://img.shields.io/badge/@Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadnurop)  
@@ -48,22 +53,28 @@ Saya suka membuat tampilan web yang menarik, responsif, dan fungsional, serta me
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadNurHidayatullah&theme=tokyonight" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadNurHidayatullah&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 ### ✨ Fun Fact
-> 👨‍💻 Kadang ngoding, kadang mikirin kamu... CSS aja gue rapihin, apalagi apa?
+
+> 👨‍💻 Kadang ngoding, kadang mikirin kamu...  
+> CSS aja gue rapihin, masa hubungan kita nggak? 😆
 
 ---
