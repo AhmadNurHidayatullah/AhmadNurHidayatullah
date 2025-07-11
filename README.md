@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmad%20Nur%20Hidayatullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Frontend%20Developer%20%26%20UI/UX%20Enthusiast&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmad%20Nur%20Hidayatullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%26%20UI/UX%20Enthusiast&descAlignY=51&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+Amazing+Web+Experiences;💻+Frontend+Developer+%26+UI%2FUX+Designer;🎨+Crafting+Clean+User+Interfaces;🌱+Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+Amazing+Web+Experiences;💻+Frontend+Developer+%26+UI%2FUX+Designer;🎨+Crafting+Beautiful+User+Interfaces;🌟+Always+Learning+New+Technologies;📱+Mobile-First+Responsive+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,59 +16,78 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya
+## 🚀 About Me
 
 ```javascript
-const ahmad = {
-  nama: "Ahmad Nur Hidayatullah",
+const ahmadProfile = {
+  name: "Ahmad Nur Hidayatullah",
   role: "Frontend Developer & UI/UX Enthusiast",
-  kampus: "Universitas Muhammadiyah Yogyakarta",
-  semester: 6,
-  domisili: "Yogyakarta, Indonesia",
-  stack: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["PHP", "Laravel"],
-    database: ["MySQL"],
-    design: ["Figma", "Canva"],
-    tools: ["VS Code", "Git", "Postman"]
+  education: "Information Technology Student at UMY",
+  semester: "6th Semester",
+  location: "Yogyakarta, Indonesia",
+
+  passion: ["Frontend Development", "UI/UX Design", "Web Development"],
+  currentFocus: "Building responsive and interactive web applications",
+
+  skills: {
+    frontend: ["HTML5", "CSS3", "JavaScript", "React.js"],
+    backend: ["PHP", "Laravel", "MySQL"],
+    design: ["Figma", "Adobe XD", "Canva"],
+    tools: ["VS Code", "Git", "Postman", "npm"]
   },
-  motto: "Clean code, beautiful design, seamless user experience",
-  nowLearning: ["React", "Laravel Lanjutan", "Responsive Design"]
-}
-🧰 Tech Stack & Tools
-<div align="center">
+
+  motto: "Clean code, beautiful design, seamless user experience"
+};
+
+console.log("Welcome to my GitHub profile! 🎉");
+🛠️ Tech Stack
 💻 Frontend
 
 
 
 
-🛠️ Backend & DB
+
+🧰 Backend & Database
 
 
 
-
-🎨 Design
-
+🎨 Design Tools
 
 
-🧰 Tools
+📊 GitHub Stats
+<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Ahmad's%20GitHub%20Stats"/> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages"/> </div>
+🎯 Goals 2025
+📌 Short-term
+✅ Belajar React Hooks & Context API
 
+✅ Selesaikan UI/UX course (Figma)
+
+🚧 Bangun 5 proyek portfolio interaktif
+
+📱 Kembangkan Progressive Web App
+
+💼 Internship di perusahaan teknologi
+
+🌍 Long-term
+🔧 Kuasai Full Stack (MERN/PERN)
+
+🌐 Aktif kontribusi open source
+
+✍️ Launch personal tech blog
+
+🚀 Bangun produk SaaS
+
+📫 Let's Connect!
+<div align="center">
 
 
 
 
 </div>
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmadNurHidayatullah&theme=tokyonight&hide_border=true" /> </div>
-✨ Fun Fact
-👨‍💻 Kadang ngoding, kadang mikirin kamu...
-CSS aja gue rapihin, masa hubungan kita nggak? 😆
-
-📫 Hubungi Saya
 <div align="center">
-
-
-
+💡 "First, solve the problem. Then, write the code." – John Johnson
+🌟 "Design is not just what it looks like... Design is how it works." – Steve Jobs
+⭐ From AhmadNurHidayatullah
 
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" /> </div> ```
