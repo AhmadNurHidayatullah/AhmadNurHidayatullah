@@ -81,7 +81,7 @@
         <br><sub>HTML, CSS, JavaScript</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="100" alt="Figma Logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="70" alt="Figma Logo">
         <br><strong>UI/UX Design</strong>
         <br><sub>Figma, Canva</sub>
       </td>
