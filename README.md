@@ -3,10 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💻%20Mahasiswa-Teknologi%20Informasi-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend%20%26%20UI/UX-Enthusiast-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Developer-Learner-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Mahasiswa+Teknologi+Informasi;Frontend+%26+UI%2FUX+Enthusiast;Web+Developer+Learner;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
+
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
