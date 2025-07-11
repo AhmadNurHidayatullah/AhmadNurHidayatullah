@@ -1,93 +1,92 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmad%20Nur%20Hidayatullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%26%20UI/UX%20Enthusiast&descAlignY=51&descAlign=62" alt="Header" />
-</div>
+<h1 align="center">Hi there 👋, I'm Ahmad Nur Hidayatullah</h1>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+Amazing+Web+Experiences;💻+Frontend+Developer+%26+UI%2FUX+Designer;🎨+Crafting+Beautiful+User+Interfaces;🌟+Always+Learning+New+Technologies;📱+Mobile-First+Responsive+Design)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmadNurHidayatullah&color=00d9ff&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/AhmadNurHidayatullah?color=00d9ff&style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/stars/AhmadNurHidayatullah?color=00d9ff&style=for-the-badge&label=Stars" />
-</div>
+<p align="center">
+💻 Mahasiswa Teknologi Informasi | Frontend & UI/UX Enthusiast | Web Developer Learner
+</p>
 
 ---
 
-## 🚀 About Me
+### 🧑‍💻 Tentang Saya
 
-```javascript
-const ahmadProfile = {
-  name: "Ahmad Nur Hidayatullah",
-  role: "Frontend Developer & UI/UX Enthusiast",
-  education: "Information Technology Student at UMY",
-  semester: "6th Semester",
-  location: "Yogyakarta, Indonesia",
+Saya adalah mahasiswa semester 6 di Universitas Muhammadiyah Yogyakarta, jurusan Teknologi Informasi.  
+Saya sangat tertarik di bidang **Frontend Development**, **UI/UX Design**, dan **Web Development**.  
+Saya suka membuat tampilan web yang **menarik, responsif, dan fungsional**, serta mempelajari tools modern seperti **Laravel** dan **Figma**.
 
-  passion: ["Frontend Development", "UI/UX Design", "Web Development"],
-  currentFocus: "Building responsive and interactive web applications",
+---
 
-  skills: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "React.js"],
-    backend: ["PHP", "Laravel", "MySQL"],
-    design: ["Figma", "Adobe XD", "Canva"],
-    tools: ["VS Code", "Git", "Postman", "npm"]
-  },
+### 🧰 Tech Stack
 
-  motto: "Clean code, beautiful design, seamless user experience"
-};
+- **💻 Languages:** HTML, CSS, JavaScript, PHP  
+- **🧰 Frameworks:** Laravel (dasar), Bootstrap  
+- **🛠️ Tools:** Git, GitHub, VS Code, Postman  
+- **🎨 UI Design:** Figma, Canva  
+- **🗄️ Database:** MySQL  
 
-console.log("Welcome to my GitHub profile! 🎉");
-🛠️ Tech Stack
-💻 Frontend
+---
 
+### 🌱 Sedang Belajar
 
+`Frontend Development` | `UI/UX Design` | `Laravel` | `Responsive Web Design`
 
+---
 
+### 🧠 Minat Utama
 
-🧰 Backend & Database
+- Frontend Development (HTML, CSS, JavaScript)  
+- Web Design & Prototyping (Figma, Canva)  
+- Laravel & PHP dasar  
+- Membuat website yang **clean, responsive**, dan **interaktif**
 
+---
 
+### 📫 Hubungi Saya
 
-🎨 Design Tools
+<p align="left">
+  <a href="mailto:ahmadnurhidayatulla@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahmad-nurhidayatullah-853502341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ahmadnurop" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
+---
 
-📊 GitHub Stats
-<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Ahmad's%20GitHub%20Stats"/> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages"/> </div>
-🎯 Goals 2025
-📌 Short-term
-✅ Belajar React Hooks & Context API
+### 🚀 Teknologi & Tools
 
-✅ Selesaikan UI/UX course (Figma)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-🚧 Bangun 5 proyek portfolio interaktif
+---
 
-📱 Kembangkan Progressive Web App
+### 📊 GitHub Stats
 
-💼 Internship di perusahaan teknologi
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-🌍 Long-term
-🔧 Kuasai Full Stack (MERN/PERN)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadNurHidayatullah&theme=tokyonight" />
+</p>
 
-🌐 Aktif kontribusi open source
+---
 
-✍️ Launch personal tech blog
+### ✨ Fun Fact
 
-🚀 Bangun produk SaaS
+> 👨‍💻 Kadang ngoding, kadang mikirin kamu...  
+> CSS aja gue rapihin, apalagi apa?
 
-📫 Let's Connect!
-<div align="center">
-
-
-
-
-</div>
-<div align="center">
-💡 "First, solve the problem. Then, write the code." – John Johnson
-🌟 "Design is not just what it looks like... Design is how it works." – Steve Jobs
-⭐ From AhmadNurHidayatullah
-
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" /> </div> ```
+---
