@@ -86,7 +86,7 @@
         <br><sub>Figma, Canva</sub>
       </td>
       <td align="center" width="200">
-          <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="60">
+          <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="70">
         <br><strong>Backend Development</strong>
         <br><sub>Laravel & PHP</sub>
       </td>
