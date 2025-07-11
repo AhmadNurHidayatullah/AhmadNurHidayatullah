@@ -148,10 +148,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadNurHidayatullah&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmadNurHidayatullah&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## ✨ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Fun Fact**
