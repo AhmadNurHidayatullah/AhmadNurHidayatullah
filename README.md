@@ -23,7 +23,7 @@
 - 🚀 Sangat tertarik di bidang **Frontend Development**, **UI/UX Design**, dan **Web Development**
 - 💡 Suka membuat tampilan web yang **menarik, responsif, dan fungsional**
 - 🛠️ Sedang mempelajari tools modern seperti **Laravel** dan **Figma**
-- 📍 **Depok, Yogyakarta, Indonesia**
+- 📍 **Bantul, Yogyakarta, Indonesia**
 
 <br clear="both">
 
