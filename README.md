@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Mahasiswa+Teknologi+Informasi;Frontend+%26+UI%2FUX+Enthusiast;Web+Developer+Learner;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
+
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
@@ -14,11 +17,7 @@
 
 ## 🧑‍💻 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Tentang Saya**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</picture>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 **Mahasiswa semester 6** di Universitas Muhammadiyah Yogyakarta, jurusan Teknologi Informasi
 - 🚀 Sangat tertarik di bidang **Frontend Development**, **UI/UX Design**, dan **Web Development**
@@ -36,26 +35,23 @@
 
 ### **💻 Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=auto" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ### **🧰 Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap&theme=auto" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
 </p>
 
 ### **🛠️ Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,mysql&theme=auto" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,mysql" />
 </p>
 
 ### **🎨 Design Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma&theme=auto" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=black" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 </div>
@@ -85,18 +81,12 @@
         <br><sub>HTML, CSS, JavaScript</sub>
       </td>
       <td align="center" width="200">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="70" alt="Figma Logo">
-        </picture>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="70" alt="Figma Logo">
         <br><strong>UI/UX Design</strong>
         <br><sub>Figma, Canva</sub>
       </td>
       <td align="center" width="200">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
           <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="70">
-        </picture>
         <br><strong>Backend Development</strong>
         <br><sub>Laravel & PHP</sub>
       </td>
@@ -134,42 +124,15 @@
 ## 🚀 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Teknologi & Tools**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  </picture>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
 
 ---
@@ -177,16 +140,8 @@
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Stats**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=2F80ED">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadNurHidayatullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNurHidayatullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
 </div>
 
 ---
@@ -194,24 +149,21 @@
 ## ✨ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Fun Fact**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=600&lines=👨‍💻+Kadang+ngoding%2C+kadang+mikirin+kamu...;CSS+aja+gue+rapihin%2C+apalagi+apa%3F;Code+is+Poetry+%7C+Design+is+Art">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E55353&background=FFFFFF00&center=true&vCenter=true&width=600&lines=👨‍💻+Kadang+ngoding%2C+kadang+mikirin+kamu...;CSS+aja+gue+rapihin%2C+apalagi+apa%3F;Code+is+Poetry+%7C+Design+is+Art">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=600&lines=👨‍💻+Kadang+ngoding%2C+kadang+mikirin+kamu...;CSS+aja+gue+rapihin%2C+apalagi+apa%3F;Code+is+Poetry+%7C+Design+is+Art" alt="Fun Fact SVG" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=600&lines=👨‍💻+Kadang+ngoding%2C+kadang+mikirin+kamu...;CSS+aja+gue+rapihin%2C+apalagi+apa%3F;Code+is+Poetry+%7C+Design+is+Art" alt="Fun Fact SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgNDAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNTAiIGZpbGw9IiMwRDExMTciIHJ4PSI1Ii8+PHRleHQgeD0iMjAwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI0ZGNkI2QiIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjE2Ij4iRXZlcnkgZXhwZXJ0IHdhcyBvbmNlIGEgYmVnaW5uZXIgd2l0aCBhIGJ1Zy4iPC90ZXh0Pjwvc3ZnPg==">
-    <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgNDAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNTAiIGZpbGw9IiNGRkZGRkYiIHN0cm9rZT0iI0UxRTRFOCIgc3Ryb2tlLXdpZHRoPSIxIiByeD0iNSIvPjx0ZXh0IHg9IjIwMCIgeT0iMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNFNTUzNTMiIGZvbnQtZmFtaWx5PSJGaXJhIENvZGUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiI+IkV2ZXJ5IGV4cGVydCB3YXMgb25jZSBhIGJlZ2lubmVyIHdpdGggYSBidWcuIjwvdGV4dD48L3N2Zz4=">
-    <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgNDAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNTAiIGZpbGw9IiMwRDExMTciIHJ4PSI1Ii8+PHRleHQgeD0iMjAwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI0ZGNkI2QiIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjE2Ij4iRXZlcnkgZXhwZXJ0IHdhcyBvbmNlIGEgYmVnaW5uZXIgd2l0aCBhIGJ1Zy4iPC90ZXh0Pjwvc3ZnPg==" alt="Quote" />
-  </picture>
+  <p style="font-family: 'Fira Code', monospace; font-size: 16px; color: #FF6B6B; background-color: #0D1117; padding: 10px; width: fit-content; border-radius: 5px;">
+    "Every expert was once a beginner with a bug."
+  </p>
 </div>
+
+
 
 ---
 
