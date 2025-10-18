@@ -149,7 +149,7 @@
 ## ✨ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Fun Fact**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=600&lines=👨‍💻+Kadang+ngoding%2C+kadang+mikirin+kamu...;CSS+aja+gue+rapihin%2C+apalagi+apa%3F;Code+is+Poetry+%7C+Design+is+Art" alt="Fun Fact SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&width=600&lines=👨‍💻+Kadang+ngoding%2C+kadang+mikirin+kamu...;CSS+aja+ku+rapihin%2C+apalagi+apa%3F;Code+is+Poetry+%7C+Design+is+Art" alt="Fun Fact SVG" />
 </div>
 
 
