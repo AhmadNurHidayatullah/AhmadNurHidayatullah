@@ -19,10 +19,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🎓 **Mahasiswa semester 6** di Universitas Muhammadiyah Yogyakarta, jurusan Teknologi Informasi
-- 🚀 Sangat tertarik di bidang **Frontend Development**, **UI/UX Design**, dan **Web Development**
+- 🎓 **Fresh Graduate** Universitas Muhammadiyah Yogyakarta, jurusan Teknologi Informasi
+- 🚀 Sangat tertarik di bidang **Frontend Development**, **UI/UX Design**, **Web Development**, **full Stack Development**, dan **Software Development**
 - 💡 Suka membuat tampilan web yang **menarik, responsif, dan fungsional**
-- 🛠️ Sedang mempelajari tools modern seperti **Laravel** dan **Figma**
+- 🛠️ Sedang mempelajari tools modern seperti **Laravel**, **Figma**, dan **Docker**
 - 📍 **Bantul, Yogyakarta, Indonesia**
 
 <br clear="both">
@@ -78,17 +78,17 @@
       <td align="center" width="200">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
         <br><strong>Frontend Development</strong>
-        <br><sub>HTML, CSS, JavaScript</sub>
+        <br><sub>HTML, CSS, JavaScript, react, next.js</sub>
       </td>
       <td align="center" width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="70" alt="Figma Logo">
         <br><strong>UI/UX Design</strong>
-        <br><sub>Figma, Canva</sub>
+        <br><sub>Figma, Prototyping, UI Design, Responsive Design</sub>
       </td>
       <td align="center" width="200">
           <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="70">
         <br><strong>Backend Development</strong>
-        <br><sub>Laravel & PHP</sub>
+        <br><sub>Laravel, PHP, REST API</sub>
       </td>
       <td align="center" width="200">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
